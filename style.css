@@ -55,7 +55,9 @@ h1 {
   font-size: 1.1rem;
   margin: 20px;
 }
-
+.badges-contenedor .badge{
+background-color: #82612d;
+}
 .texto-negro {
   color: black;
 }
@@ -123,7 +125,7 @@ h1 {
 .experiencia i {
   font-size: 2.5rem;
   color: #f8fa81;
-  background-color: #0a0a23;
+  background-color: #745328;
   padding: 8px 19px;
   border-radius: 50%;
 }
